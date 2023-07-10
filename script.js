@@ -79,7 +79,7 @@ const getCommonWeather = async () => {
 
 
 
-getWeather("Delhi")
+getWeather("Kanpur")
 getCommonWeather()
 
 
